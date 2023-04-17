@@ -30,3 +30,5 @@ gaitober" => "gato"
 ### Intenta a desencriptar el siguiente mensaje secreto:
 
 _graicimesais poberr vimessimestair enterl enterncrimesptaidoberr y aipoberyair enterl proberyenterctober enterspenterrober qufatenter enterstenters bimesentern y tenter senterai denter mufatchai aiyufatdai_
+
+#challengeonecodificador5
