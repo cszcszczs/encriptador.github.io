@@ -5,7 +5,7 @@ Bienvenidos y bienvenidas a mi encriptador.
 Este encriptador esta realizado en javascript, html y css se desarrollo a partir de un diseño
 de figma, las condiciones para desarrollar el proyecto fueron las siguientes.
 
-**Las "llaves" de encriptación que utilizaremos son las siguientes:**
+**Las "llaves" de encriptación que utilizamos son las siguientes:**
 
 - La letra "e" es convertida para "enter"
 - La letra "i" es convertida para "imes"
@@ -30,5 +30,7 @@ gaitober" => "gato"
 ### Intenta a desencriptar el siguiente mensaje secreto:
 
 _graicimesais poberr vimessimestair enterl enterncrimesptaidoberr y aipoberyair enterl proberyenterctober enterspenterrober qufatenter enterstenters bimesentern y tenter senterai denter mufatchai aiyufatdai_
+
+---
 
 #challengeonecodificador5
